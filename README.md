@@ -4,7 +4,8 @@
 In the project directory, you can run:
 ### `npm install`
 
-Installs the necessary files to run localhost
+Installs the necessary files to run localhost.\
+For more information on npm commands use [https://docs.npmjs.com/cli/v6/commands/npm-install/]
 
 ### `npm start`
 
